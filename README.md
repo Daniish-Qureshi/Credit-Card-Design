@@ -22,7 +22,7 @@ The design is fully customizable, allowing easy modifications to fit different t
 - **HTML5**: For structuring the content.
 - **CSS3**: For styling and layout.
 
-## Screenshots
+## Demo Screenshots
 
 ![Demo Screenshot](https://github.com/Daniish-Qureshi/Credit-Card-Design/blob/main/DESKTOP%20(1).png)
 
@@ -30,8 +30,7 @@ The design is fully customizable, allowing easy modifications to fit different t
 
 Click the button below to see the project in action:
 
-[![Demo](https://img.shields.io/badge/LIVE-DEMO-black)]()
-
+[![Demo](https://img.shields.io/badge/LIVE-DEMO-black)](https://daniish-qureshi.github.io/Credit-Card-Design/)
 
 ## Contact
 
