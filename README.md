@@ -1,6 +1,16 @@
-# Project Name: Credit Card Design
+# Credit Card Design
 
 A stylish and modern credit card design created using HTML and CSS.
+
+## Demo Screenshots
+
+![Demo Screenshot](https://github.com/Daniish-Qureshi/Credit-Card-Design/blob/main/DESKTOP%20(1).png)
+
+## Live Demo
+
+Click the button below to see the project in action:
+
+[![Demo](https://img.shields.io/badge/LIVE-DEMO-black)](https://daniish-qureshi.github.io/Credit-Card-Design/)
 
 # Introduction
 
@@ -21,16 +31,6 @@ The design is fully customizable, allowing easy modifications to fit different t
 
 - **HTML5**: For structuring the content.
 - **CSS3**: For styling and layout.
-
-## Demo Screenshots
-
-![Demo Screenshot](https://github.com/Daniish-Qureshi/Credit-Card-Design/blob/main/DESKTOP%20(1).png)
-
-## Live Demo
-
-Click the button below to see the project in action:
-
-[![Demo](https://img.shields.io/badge/LIVE-DEMO-black)](https://daniish-qureshi.github.io/Credit-Card-Design/)
 
 ## Contact
 
